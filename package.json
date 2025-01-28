@@ -1,7 +1,7 @@
 {
-  "name": "Práctica 11 de PAI",
+  "name": "Práctica 2 de PAI",
   "version": "1.0.0",
-  "description": "Poker Game",
+  "description": "Introduction to JS",
   "private": true,
   "main": "index.js",
   "scripts": {

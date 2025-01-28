@@ -19,3 +19,6 @@ The project directory organization is as follows:
     ├── evaluation-session
     └── home-work
 ```
+
+Include in the evaluation-session folder all the code developed in the evaluation session
+Include under the home-work folder all the exercises requested in the lab proposal
