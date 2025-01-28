@@ -1,5 +1,5 @@
 # Práctica 2. Introducción a JavaScript.
-### Factor de ponderación: 4
+### Factor de ponderación: 3
 
 ### Objetivos
 Los objetivos de esta práctica son:
