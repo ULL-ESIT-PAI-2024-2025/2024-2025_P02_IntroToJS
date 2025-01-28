@@ -5,8 +5,8 @@
 Los objetivos de esta práctica son:
 * Ser capaz de realizar programas simples en JavaScript en el entorno Linux de la VM de la asignatura usando
   Node.js
-* Conocer la plataforma Jutge para utilizarla como fuente de ejercicios de programación
 * Conocer y poner en práctica las recomendaciones de la Guía de Estilo de Google para JavaScript
+* Conocer la plataforma Jutge para utilizarla como fuente de ejercicios de programación
 
 ### Rúbrica de evaluacion del ejercicio
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
@@ -25,8 +25,8 @@ Cuando se inscriba Ud. en el curso `PAI - 2024-2025` de
 [Jutge](https://jutge.org/),
 hallará una lista de problemas de programación de diferente dificultad.
 
-El objeto de esta práctica es que comience Ud. a desarrollar algunos de esos ejercicios y resuelva todos los
-que sea capaz: cuantos más resuelva más mejorará sus capacidades como programadora.
+El objeto de esta práctica es que desarrolle Ud. todos los ejercicios que sea capaz: cuantos más resuelva 
+más mejorará sus capacidades como programadora.
 
 A la hora de resolver los problemas que se le proponen, trate de usar exclusivamente las características de
 JavaScript que ha estudiado en clase o bien en el material que se le ha pedido que estudie.
@@ -48,6 +48,12 @@ necesarios:
 $ npm install
 ```
 y observe el efecto de la ejecución del comando anterior.
+En particular el comando crea en su proyecto el directorio `node_modules` que contiene los paquetes necesarios
+para el correcto funcionamiento de su aplicación.
+Ese directorio `node_modules` debiera figurar en su fichero `.gitignore` para no copiar su contenido cuando
+actualice el repo de su proyecto.
+Análogamente debiera Ud. borrar ese directorio antes de crear el fichero `*.tar.gz` que ha de entregar en el
+aula virtual con cada práctica.
 
 A continuación ejecute el programa utilizando `node`:
 
@@ -56,7 +62,7 @@ node first-numbers-P37500.js
 ```
 
 En el programa observe los siguientes aspectos:
-* El nombre que se le ha puesto al fichero del programa: es un nombre descriptivo.
+* El nombre del fichero del programa: es un nombre descriptivo.
 * El comentario de cabecera del fichero explica varias cuestiones relativas al programa.
 * La sentencia `use strict;`. Se incluirá en todos los programas JS que realice. Estudie esa sentencia en el
 [tutorial de referencia de la asignatura](https://javascript.info/strict-mode#use-strict).
