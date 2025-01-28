@@ -21,7 +21,7 @@ que se tendrán en cuenta a la hora de evaluar esta práctica:
   Code (VSC)
 
 ### Jutge
-Cuando se inscriba Ud. en el curso `PAI - 2023-2024` de 
+Cuando se inscriba Ud. en el curso `PAI - 2024-2025` de 
 [Jutge](https://jutge.org/),
 hallará una lista de problemas de programación de diferente dificultad.
 
